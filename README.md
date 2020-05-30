@@ -4,7 +4,7 @@ This is my personal website, designed and implemented as part of [CS50W's Projec
 
 The website contains my CV and my information. The website is written in HTML with CSS / SCSS styling. A small amount of JavaScript is used to generate a pop-up when a button is activated (Programming page).
 
-![Screenshot of website homepage.](https://i.imgur.com/lIv9wli.png)
+
 
 ## Website Files:
 
